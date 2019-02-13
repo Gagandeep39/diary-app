@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.gagandeep.databasesync.MainActivity">
+    <item
+        android:id="@+id/action_sync"
+        android:orderInCategory="100"
+        android:title="Sync with Database"
+        android:icon="@drawable/menu_sync"
+
+        app:showAsAction="always" />
+</menu>
